@@ -1,0 +1,15 @@
+{
+  "name": "clientabckend",
+  "version": "1.0.0",
+  "description": "this is the backend for ai montor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Braj kishor",
+  "license": "ISC"
+}
